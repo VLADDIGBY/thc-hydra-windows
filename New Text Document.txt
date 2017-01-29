@@ -1,0 +1,105 @@
+Microsoft Windows [Version 6.2.9200]
+(c) 2012 Microsoft Corporation. All rights reserved.
+
+C:\Users\John>color 0a
+
+C:\Users\John>ipconfig
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : Home
+   IPv6 Address. . . . . . . . . . . : 2a02:c7d:8986:9100:70ef:5daa:8bb1:842d
+   IPv6 Address. . . . . . . . . . . : fdb9:9091:8e8:0:70ef:5daa:8bb1:842d
+   Temporary IPv6 Address. . . . . . : 2a02:c7d:8986:9100:24d5:56e1:e73f:7631
+   Temporary IPv6 Address. . . . . . : fdb9:9091:8e8:0:24d5:56e1:e73f:7631
+   Link-local IPv6 Address . . . . . : fe80::70ef:5daa:8bb1:842d%13
+   IPv4 Address. . . . . . . . . . . : 192.168.0.2
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::c23e:fff:feef:af68%13
+                                       192.168.0.1
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Home
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Tunnel adapter isatap.Home:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Home
+
+C:\Users\John>net stat
+The syntax of this command is:
+
+NET
+    [ ACCOUNTS | COMPUTER | CONFIG | CONTINUE | FILE | GROUP | HELP |
+      HELPMSG | LOCALGROUP | PAUSE | SESSION | SHARE | START |
+      STATISTICS | STOP | TIME | USE | USER | VIEW ]
+
+C:\Users\John>dir
+ Volume in drive C is Data
+ Volume Serial Number is 0645-6BA4
+
+ Directory of C:\Users\John
+
+19/05/2016  06:36    <DIR>          .
+19/05/2016  06:36    <DIR>          ..
+19/05/2016  06:36    <DIR>          .MCTranscodingSDK
+18/05/2016  06:31    <DIR>          .oracle_jre_usage
+18/05/2016  06:31    <DIR>          .swt
+18/05/2016  23:41     4,440,541,768 Apocalypse Now Redux (1979) 1080p BrRip 5.1
+x264 aac [TuGAZx].zip
+27/10/2015  22:10    <DIR>          Contacts
+22/05/2016  23:28    <DIR>          Desktop
+23/05/2016  02:40    <DIR>          Documents
+23/05/2016  02:27    <DIR>          Downloads
+12/03/2016  15:15    <DIR>          Favorites
+27/10/2015  22:10    <DIR>          Links
+27/10/2015  22:10    <DIR>          Music
+18/05/2016  23:54    <DIR>          New folder
+10/04/2016  07:15    <DIR>          Pictures
+27/10/2015  22:10    <DIR>          Saved Games
+27/10/2015  22:10    <DIR>          Searches
+26/08/2015  02:28    <DIR>          Tracing
+23/05/2016  01:55    <DIR>          Videos
+               1 File(s)  4,440,541,768 bytes
+              18 Dir(s)  97,784,373,248 bytes free
+
+C:\Users\John>
+C:\Users\John>color 0a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
